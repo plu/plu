@@ -43,10 +43,10 @@
 `+++` Perl\
 `++ ` Oracle
 
-### Side Project
+### Side Projects
 
 #### Current
-[simctl](https://github.com/plu/simctl) - Ruby interface to xcrun simctl (used by fastlane)
+[simctl](https://github.com/plu/simctl) - Ruby interface to xcrun simctl (used by fastlane) - not very actively maintained, at least no new features are being added currently.
 
 #### Past
 Between 05/2017 and 07/2018 I've built and maintained the [iOS Poloniex App](https://apps.apple.com/us/app/poloniex-crypto-exchange/id1234141021) as my own product in my personal App Store Account. Was finally [acquired](https://www.circle.com/blog/announcing-the-official-poloniex-mobile-app) by Poloniex in 07/2018. Also started the Android App and implemented the first few screens, until I finally asked a [friend](https://github.com/CiprianU) for help, who  knows a lot more about Android than I do.

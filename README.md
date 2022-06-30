@@ -16,7 +16,7 @@
 #### 05/2014 - today: Senior iOS Developer @ eBay Kleinanzeigen (remote since 2016)
 * `+++` Swift
 * `++ ` Jenkins, Objective-C, Ruby
-* `+  ` Go, Java, Groovy, TypeScript
+* `+  ` GitHub Actions, Go, Java, Groovy, TypeScript
 
 #### 11/2013 - 04/2014: Senior Software Engineer @ metaquark GmbH
 * `+++` Objective-C, Ruby

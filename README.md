@@ -13,6 +13,8 @@
 
 ### Experience
 
+`+++` means I got a lot in touch with that technology while being in this position, does not mean I'm an expert in it.
+
 #### 05/2014 - today: Senior iOS Developer @ eBay Kleinanzeigen (remote since 2016)
 * `+++` Swift
 * `++ ` Jenkins, Objective-C, Ruby

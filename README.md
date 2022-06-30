@@ -12,9 +12,9 @@ I see myself as a generalist, not afraid to touch other technologies than what I
 
 ## Recent Open Source Contributions
 
-* [cli/cli](https://github.com/cli/cli) - [Support gh release edit](https://github.com/cli/cli/pull/5422)
-* [apple/swift-package-manager](github.com/apple/swift-package-manager) - [Limit concurrent HTTP requests when downloading binary dependencies](https://github.com/apple/swift-package-manager/pull/4017)
-* [fastlane/fastlane](github.com/fastlane/fastlane) - [Fix duplicate use\_system\_scm option](https://github.com/fastlane/fastlane/pull/17957)
+* cli/cli - [Support gh release edit](https://github.com/cli/cli/pull/5422)
+* apple/swift-package-manager - [Limit concurrent HTTP requests when downloading binary dependencies](https://github.com/apple/swift-package-manager/pull/4017)
+* fastlane/fastlane - [Fix duplicate use\_system\_scm option](https://github.com/fastlane/fastlane/pull/17957)
 
 ## Experience
 

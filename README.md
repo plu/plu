@@ -1,16 +1,40 @@
-### Hi there 👋
+### Summary
 
-<!--
-**plu/plu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Working in Software Engineering since 2004
+- Had different roles from backend/frontend to devops to iOS engineer
 
-Here are some ideas to get you started:
+### Recent Open Source Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [cli/cli](https://github.com/cli/cli) - GitHub command line interface - [Support gh release edit](https://github.com/cli/cli/pull/5422)
+* [apple/swift-package-manager](github.com/apple/swift-package-manager) - Swift Package Manager - [Limit concurrent HTTP requests when downloading binary dependencies](https://github.com/apple/swift-package-manager/pull/4017)
+* [fastlane/fastlane](github.com/fastlane/fastlane) - fastlane - [Fix duplicate use_system_scm option](https://github.com/fastlane/fastlane/pull/17957)
+
+### Experience
+
+#### 05/2014 - today: Senior iOS Developer @ eBay Kleinanzeigen (remote since 2016)
+* `+++` Swift
+* `++ ` Jenkins, Objective-C, Ruby
+* `+  ` Go, Java, Groovy, TypeScript
+
+#### 11/2013 - 04/2014: Senior Software Engineer @ metaquark GmbH
+* `+++` Objective-C, Ruby
+* `++ ` Bamboo, Capistrano
+* `+  ` Puppet
+
+#### 01/2012 - 10/2013: Senior Software Engieer @ XING
+* `+++` Objective-C, Perl, Ruby
+* `++ ` Capistrano, Chef, Jenkins
+* `+  ` VMware
+
+#### 04/2011 - 12/2011: Software Consultant @ ConSol MENA
+* `+++` ColdFusion, Perl
+* `++ ` Microsoft SQL Server
+
+#### 07/2009 - 03/2011: Senior Software Engineer @ XING
+* `+++` MySQL, Perl, Ruby
+* `++ ` German, Jenkins
+* `+  ` RabbitMQ
+
+#### 09/2004 - 06/2009: Software Consultant @ ConSol Software GmbH
+* `+++` Perl
+* `++ ` Oracle

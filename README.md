@@ -2,9 +2,11 @@
 
 ### Summary
 
-- Working in Software Engineering since 2004, with focus on iOS since 8 years.
-- Had different roles from backend/frontend to DevOps to iOS engineer.
-- I see myself as a generalist, not afraid to touch other technologies than what I was hired for. Often launching Android Studio, comparing the Android app to the iOS app in my current job to debug something, or to check with Charles Proxy how and when they make a request to the backend to ensure the two different platforms behave the same.
+- Working in Software Engineering since 2004, with focus on iOS since 8 years
+- Had different roles from backend/frontend to DevOps to iOS engineer
+- Living north of Munich with my wife and two daughters, working remotely for eBay Kleinanzeigen (Berlin) as an iOS Developer
+
+I see myself as a generalist, not afraid to touch other technologies than what I was hired for. Often launching Android Studio, comparing the Android app to the iOS app in my current job to debug something, or to check with Charles Proxy how and when they make a request to the backend to ensure the two different platforms behave the same.
 
 ### Recent Open Source Contributions
 

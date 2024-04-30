@@ -49,8 +49,8 @@ I see myself as a generalist, happy to touch other technologies than what I was 
 ### Side Projects
 
 #### Current
-[simctl](https://github.com/plu/simctl) - Ruby interface to xcrun simctl (used by fastlane) - not very actively maintained, at least no new features are being added currently.
-[Less Paper](https://apps.apple.com/de/app/less-paper/id6464425056?l=en-GB) - Some iOS client for [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+* [simctl](https://github.com/plu/simctl) - Ruby interface to xcrun simctl (used by fastlane) - not very actively maintained, at least no new features are being added currently.
+* [Less Paper](https://apps.apple.com/de/app/less-paper/id6464425056?l=en-GB) - Some iOS client for [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
 
 #### Past
 Between 05/2017 and 07/2018 I've built and maintained the [iOS Poloniex App](https://apps.apple.com/us/app/poloniex-crypto-exchange/id1234141021) (and [Android App](https://play.google.com/store/apps/details?id=com.plunien.poloniex&hl=en&gl=US)) as my own product in my personal App Store Account. Was finally [acquired](https://www.circle.com/blog/announcing-the-official-poloniex-mobile-app) by Poloniex in 07/2018. Also started the Android App and implemented the first few screens, until I finally asked a [friend](https://github.com/CiprianU) for help, who knows a lot more about Android than I do.
